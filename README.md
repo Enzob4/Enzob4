@@ -1,16 +1,15 @@
-## Hi there 👋
+# Salut, moi c'est Enzo ! 👋
 
-<!--
-**Enzob4/Enzob4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Fullstack.
 
-Here are some ideas to get you started:
+### 🛠 Compétences techniques
+- [cite_start]**Languages:** PHP 7.2+, Node.js, JavaScript (ES6+), Python [cite: 22, 24]
+- [cite_start]**Frameworks:** Symfony, Laravel, React, Angular [cite: 13, 14, 23]
+- [cite_start]**DevOps:** Docker, GitHub Actions, Git, Linux [cite: 16, 19]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projets phares
+- **API Modern Stack:** Développement d'une API avec Symfony & API Platform couplée à un front-end React.
+- **Migration Legacy:** Expérience en entreprise sur la transition PHP 5 vers 7.2 et conteneurisation.
+
+### 📊 Statistiques GitHub
+![Les stats d'Enzo](https://github-readme-stats.vercel.app/api?username=EnzoBlois&show_icons=true&theme=radical)
