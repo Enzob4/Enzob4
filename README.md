@@ -8,6 +8,6 @@ Développeur Fullstack.
 - **DevOps:** Docker, GitHub Actions, Git, Linux
 
 ### 🚀 Projets phares
-- **API Modern Stack:** Développement d'une API avec Symfony & API Platform couplée à un front-end React.
+- **sport-club-api:** Développement d'une API avec Symfony & API Platform couplée à un front-end React.
 - **Migration Legacy:** Expérience en entreprise sur la transition PHP 5 vers 7.2 et conteneurisation.
 
