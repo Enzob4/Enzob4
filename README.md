@@ -1,6 +1,6 @@
 # Salut, moi c'est Enzo ! 👋
 
-Développeur Fullstack.
+Développeur Fullstack de 24 ans en région Lilloise.
 
 ### 🛠 Compétences techniques
 - **Languages:** PHP 7.2+, Node.js, JavaScript (ES6+), Python 
