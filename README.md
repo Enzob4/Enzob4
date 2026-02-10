@@ -35,7 +35,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoblois/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoblois4@gmail.com)
 
----
-
-### 📊 Statistiques GitHub
-![Stats de Enzo](https://github-readme-stats.vercel.app/api?username=Enzob4&show_icons=true&theme=radical)
